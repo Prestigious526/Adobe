@@ -1,0 +1,925 @@
+{
+  "title": "Parsippany -Troy Hills STEM Pathways",
+  "outline": [
+    {
+      "level": "0",
+      "text": "Parsippany -Troy Hills STEM Pathways",
+      "page": 1
+    },
+    {
+      "level": "0",
+      "text": "Mission Statement:",
+      "page": 1
+    },
+    {
+      "level": "0",
+      "text": "To provide PTHSD high school students with the opportunity to",
+      "page": 1
+    },
+    {
+      "level": "0",
+      "text": "concentrate their studies, beyond those required in high school, in the areas of science,",
+      "page": 1
+    },
+    {
+      "level": "0",
+      "text": "technology, engineering, and mathematics, and expose students to relevant real world",
+      "page": 1
+    },
+    {
+      "level": "0",
+      "text": "experiences through project work, conferences and presentations to enhance their high school",
+      "page": 1
+    },
+    {
+      "level": "0",
+      "text": "experience.",
+      "page": 1
+    },
+    {
+      "level": "2",
+      "text": "PATHWAY OPTIONS",
+      "page": 1
+    },
+    {
+      "level": "0",
+      "text": "REGULAR PATHWAY",
+      "page": 1
+    },
+    {
+      "level": "0",
+      "text": "4 credits of Math",
+      "page": 1
+    },
+    {
+      "level": "0",
+      "text": "4 credits of Science",
+      "page": 1
+    },
+    {
+      "level": "0",
+      "text": "4 credits of STEM-designated electives",
+      "page": 1
+    },
+    {
+      "level": "0",
+      "text": "Maintain an overall 2.85 GPA",
+      "page": 1
+    },
+    {
+      "level": "0",
+      "text": "Participate in a minimum of 3 STEM",
+      "page": 1
+    },
+    {
+      "level": "0",
+      "text": "presentations/conferences each year",
+      "page": 1
+    },
+    {
+      "level": "0",
+      "text": "with a required minimum total of 12",
+      "page": 1
+    },
+    {
+      "level": "0",
+      "text": "presentations/conferences throughout",
+      "page": 1
+    },
+    {
+      "level": "0",
+      "text": "the 4 years",
+      "page": 1
+    },
+    {
+      "level": "0",
+      "text": ". *",
+      "page": 1
+    },
+    {
+      "level": "0",
+      "text": "Join and actively participate in a",
+      "page": 1
+    },
+    {
+      "level": "0",
+      "text": "STEM-related extracurricular activity or",
+      "page": 1
+    },
+    {
+      "level": "0",
+      "text": "club every year of attendance. -",
+      "page": 1
+    },
+    {
+      "level": "0",
+      "text": "DISTINCTION PATHWAY",
+      "page": 1
+    },
+    {
+      "level": "0",
+      "text": "4 credits of Math - At least one math",
+      "page": 1
+    },
+    {
+      "level": "0",
+      "text": "course should be an AP Math class.",
+      "page": 1
+    },
+    {
+      "level": "0",
+      "text": "4 credits of Science- At least one",
+      "page": 1
+    },
+    {
+      "level": "0",
+      "text": "science course should be an AP",
+      "page": 1
+    },
+    {
+      "level": "0",
+      "text": "Science class.",
+      "page": 1
+    },
+    {
+      "level": "0",
+      "text": "4 credits of STEM-designated electives",
+      "page": 1
+    },
+    {
+      "level": "0",
+      "text": "- One must be a Computer",
+      "page": 1
+    },
+    {
+      "level": "0",
+      "text": "Science/Technology Class",
+      "page": 1
+    },
+    {
+      "level": "0",
+      "text": "Maintain an overall 3.5 GPA",
+      "page": 1
+    },
+    {
+      "level": "0",
+      "text": "Participate in a minimum of 3 STEM",
+      "page": 1
+    },
+    {
+      "level": "0",
+      "text": "presentations/conferences a year with a",
+      "page": 1
+    },
+    {
+      "level": "0",
+      "text": "required minimum total of 12",
+      "page": 1
+    },
+    {
+      "level": "0",
+      "text": "presentations/conferences throughout",
+      "page": 1
+    },
+    {
+      "level": "0",
+      "text": "the 4 years.",
+      "page": 1
+    },
+    {
+      "level": "0",
+      "text": "Join and actively participate in a",
+      "page": 1
+    },
+    {
+      "level": "0",
+      "text": "STEM-related extracurricular activity or",
+      "page": 1
+    },
+    {
+      "level": "0",
+      "text": "club every year of attendance.",
+      "page": 1
+    },
+    {
+      "level": "0",
+      "text": "Either participate in an internship or",
+      "page": 1
+    },
+    {
+      "level": "0",
+      "text": "design and implement a community",
+      "page": 1
+    },
+    {
+      "level": "0",
+      "text": "impact project.",
+      "page": 1
+    },
+    {
+      "level": "0",
+      "text": "Goals:",
+      "page": 1
+    },
+    {
+      "level": "0",
+      "text": "Inspire keen interest in mathematics, science, engineering, and",
+      "page": 1
+    },
+    {
+      "level": "0",
+      "text": "technology, develop strong scholarship in the subject and",
+      "page": 1
+    },
+    {
+      "level": "0",
+      "text": "promote the enjoyment of these studies in high school.",
+      "page": 1
+    },
+    {
+      "level": "0",
+      "text": "Expose students to potential career opportunities in the field.",
+      "page": 1
+    },
+    {
+      "level": "0",
+      "text": "Encourage students to pursue higher education and major in",
+      "page": 1
+    },
+    {
+      "level": "0",
+      "text": "STEM careers.",
+      "page": 1
+    },
+    {
+      "level": "0",
+      "text": "\u2022 Promote interactions with STEM professionals to learn about",
+      "page": 1
+    },
+    {
+      "level": "0",
+      "text": "future opportunities.",
+      "page": 1
+    },
+    {
+      "level": "0",
+      "text": "\u2022 Support field experiences connected to the world outside of",
+      "page": 1
+    },
+    {
+      "level": "0",
+      "text": "the school building.",
+      "page": 1
+    },
+    {
+      "level": "0",
+      "text": "\u2022 Signal to employers, universities, training programs, and",
+      "page": 1
+    },
+    {
+      "level": "0",
+      "text": "military that a student has completed a comprehensive course",
+      "page": 1
+    },
+    {
+      "level": "0",
+      "text": "of study in a specialized area.",
+      "page": 1
+    },
+    {
+      "level": "0",
+      "text": "\u2022 Cultivate transferable work habits such as perseverance, goal",
+      "page": 1
+    },
+    {
+      "level": "0",
+      "text": "setting, and self-direction.",
+      "page": 1
+    },
+    {
+      "level": "0",
+      "text": "Elective Course Offerings",
+      "page": 2
+    },
+    {
+      "level": "0",
+      "text": "Science",
+      "page": 2
+    },
+    {
+      "level": "0",
+      "text": "Math",
+      "page": 2
+    },
+    {
+      "level": "0",
+      "text": "Computer Science/",
+      "page": 2
+    },
+    {
+      "level": "0",
+      "text": "Technology",
+      "page": 2
+    },
+    {
+      "level": "0",
+      "text": "Art",
+      "page": 2
+    },
+    {
+      "level": "0",
+      "text": "Applied",
+      "page": 2
+    },
+    {
+      "level": "0",
+      "text": "Technology/",
+      "page": 2
+    },
+    {
+      "level": "0",
+      "text": "Family Consumer",
+      "page": 2
+    },
+    {
+      "level": "0",
+      "text": "Science and Other",
+      "page": 2
+    },
+    {
+      "level": "0",
+      "text": "AP Biology",
+      "page": 2
+    },
+    {
+      "level": "0",
+      "text": "AP Chemistry",
+      "page": 2
+    },
+    {
+      "level": "0",
+      "text": "AP Physics C",
+      "page": 2
+    },
+    {
+      "level": "0",
+      "text": "Forensics",
+      "page": 2
+    },
+    {
+      "level": "0",
+      "text": "Honors Anatomy",
+      "page": 2
+    },
+    {
+      "level": "0",
+      "text": "and Physiology",
+      "page": 2
+    },
+    {
+      "level": "0",
+      "text": "AP Environmental",
+      "page": 2
+    },
+    {
+      "level": "0",
+      "text": "Science",
+      "page": 2
+    },
+    {
+      "level": "0",
+      "text": "Marine Biology",
+      "page": 2
+    },
+    {
+      "level": "0",
+      "text": "Organic Chemistry",
+      "page": 2
+    },
+    {
+      "level": "0",
+      "text": "Genetics",
+      "page": 2
+    },
+    {
+      "level": "0",
+      "text": "Astronomy",
+      "page": 2
+    },
+    {
+      "level": "0",
+      "text": "Bioethics",
+      "page": 2
+    },
+    {
+      "level": "0",
+      "text": "MythBusting: The",
+      "page": 2
+    },
+    {
+      "level": "0",
+      "text": "Science of",
+      "page": 2
+    },
+    {
+      "level": "0",
+      "text": "Literature and",
+      "page": 2
+    },
+    {
+      "level": "0",
+      "text": "Films",
+      "page": 2
+    },
+    {
+      "level": "0",
+      "text": "AP Calculus",
+      "page": 2
+    },
+    {
+      "level": "0",
+      "text": "AP Statistics",
+      "page": 2
+    },
+    {
+      "level": "0",
+      "text": "Calculus",
+      "page": 2
+    },
+    {
+      "level": "0",
+      "text": "Probability,",
+      "page": 2
+    },
+    {
+      "level": "0",
+      "text": "Statistics,",
+      "page": 2
+    },
+    {
+      "level": "0",
+      "text": "and Discrete",
+      "page": 2
+    },
+    {
+      "level": "0",
+      "text": "Math",
+      "page": 2
+    },
+    {
+      "level": "0",
+      "text": "Precalculus",
+      "page": 2
+    },
+    {
+      "level": "0",
+      "text": "Algebra 3 &",
+      "page": 2
+    },
+    {
+      "level": "0",
+      "text": "Trigonometry",
+      "page": 2
+    },
+    {
+      "level": "0",
+      "text": "Applied Math",
+      "page": 2
+    },
+    {
+      "level": "0",
+      "text": "Honors",
+      "page": 2
+    },
+    {
+      "level": "0",
+      "text": "Accounting 1",
+      "page": 2
+    },
+    {
+      "level": "0",
+      "text": "Investments",
+      "page": 2
+    },
+    {
+      "level": "0",
+      "text": "Economics",
+      "page": 2
+    },
+    {
+      "level": "0",
+      "text": "Business",
+      "page": 2
+    },
+    {
+      "level": "0",
+      "text": "Org.",
+      "page": 2
+    },
+    {
+      "level": "0",
+      "text": "Management",
+      "page": 2
+    },
+    {
+      "level": "0",
+      "text": "Computer",
+      "page": 2
+    },
+    {
+      "level": "0",
+      "text": "Programming in C++",
+      "page": 2
+    },
+    {
+      "level": "0",
+      "text": "Robotics",
+      "page": 2
+    },
+    {
+      "level": "0",
+      "text": "Computer Science and",
+      "page": 2
+    },
+    {
+      "level": "0",
+      "text": "Programming Concepts",
+      "page": 2
+    },
+    {
+      "level": "0",
+      "text": "with Python",
+      "page": 2
+    },
+    {
+      "level": "0",
+      "text": "AP Computer Science",
+      "page": 2
+    },
+    {
+      "level": "0",
+      "text": "Principles",
+      "page": 2
+    },
+    {
+      "level": "0",
+      "text": "AP Computer Science A",
+      "page": 2
+    },
+    {
+      "level": "0",
+      "text": "Honors Data Structures",
+      "page": 2
+    },
+    {
+      "level": "0",
+      "text": "and Advanced",
+      "page": 2
+    },
+    {
+      "level": "0",
+      "text": "Programming",
+      "page": 2
+    },
+    {
+      "level": "0",
+      "text": "Networks (CCNA cert)",
+      "page": 2
+    },
+    {
+      "level": "0",
+      "text": "Switching, Routing, &",
+      "page": 2
+    },
+    {
+      "level": "0",
+      "text": "Wireless Essentials",
+      "page": 2
+    },
+    {
+      "level": "0",
+      "text": "(CCNA cert)",
+      "page": 2
+    },
+    {
+      "level": "0",
+      "text": "Cybersecurity (CCNA",
+      "page": 2
+    },
+    {
+      "level": "0",
+      "text": "cert)",
+      "page": 2
+    },
+    {
+      "level": "0",
+      "text": "Graphic",
+      "page": 2
+    },
+    {
+      "level": "0",
+      "text": "Design",
+      "page": 2
+    },
+    {
+      "level": "0",
+      "text": "Digital",
+      "page": 2
+    },
+    {
+      "level": "0",
+      "text": "Photography",
+      "page": 2
+    },
+    {
+      "level": "0",
+      "text": "Advanced",
+      "page": 2
+    },
+    {
+      "level": "0",
+      "text": "Digital",
+      "page": 2
+    },
+    {
+      "level": "0",
+      "text": "Photography",
+      "page": 2
+    },
+    {
+      "level": "0",
+      "text": "***AP",
+      "page": 2
+    },
+    {
+      "level": "0",
+      "text": "Captsone -",
+      "page": 2
+    },
+    {
+      "level": "0",
+      "text": "Seminar and",
+      "page": 2
+    },
+    {
+      "level": "0",
+      "text": "Research w/",
+      "page": 2
+    },
+    {
+      "level": "0",
+      "text": "advisor",
+      "page": 2
+    },
+    {
+      "level": "0",
+      "text": "approval",
+      "page": 2
+    },
+    {
+      "level": "0",
+      "text": "Nutrition for an",
+      "page": 2
+    },
+    {
+      "level": "0",
+      "text": "Active Lifestyle",
+      "page": 2
+    },
+    {
+      "level": "0",
+      "text": "Engineering",
+      "page": 2
+    },
+    {
+      "level": "0",
+      "text": "CAD and Design",
+      "page": 2
+    },
+    {
+      "level": "0",
+      "text": "Foundations",
+      "page": 2
+    },
+    {
+      "level": "0",
+      "text": "Television",
+      "page": 2
+    },
+    {
+      "level": "0",
+      "text": "Production I / II",
+      "page": 2
+    },
+    {
+      "level": "0",
+      "text": "Careers in",
+      "page": 2
+    },
+    {
+      "level": "0",
+      "text": "Medicine (Phys",
+      "page": 2
+    },
+    {
+      "level": "0",
+      "text": "Ed department)",
+      "page": 2
+    },
+    {
+      "level": "0",
+      "text": "Woods Tech 1",
+      "page": 2
+    },
+    {
+      "level": "0",
+      "text": "and 2",
+      "page": 2
+    },
+    {
+      "level": "0",
+      "text": "Honors",
+      "page": 2
+    },
+    {
+      "level": "0",
+      "text": "Engineering and",
+      "page": 2
+    },
+    {
+      "level": "0",
+      "text": "Design",
+      "page": 2
+    },
+    {
+      "level": "0",
+      "text": "For more information and our application please visit our website by clicking",
+      "page": 2
+    },
+    {
+      "level": "0",
+      "text": "here",
+      "page": 2
+    },
+    {
+      "level": "0",
+      "text": "What Colleges Say!",
+      "page": 2
+    },
+    {
+      "level": "0",
+      "text": "When asked the question,",
+      "page": 2
+    },
+    {
+      "level": "0",
+      "text": "\u201cWould participation in the",
+      "page": 2
+    },
+    {
+      "level": "0",
+      "text": "STEM Pathways set PTHSD students apart when applying",
+      "page": 2
+    },
+    {
+      "level": "0",
+      "text": "to your school?\u201d,",
+      "page": 2
+    },
+    {
+      "level": "0",
+      "text": "colleges responded with the following:",
+      "page": 2
+    },
+    {
+      "level": "0",
+      "text": "SUNY Binghamton:",
+      "page": 2
+    },
+    {
+      "level": "0",
+      "text": "\u201cYes. We are a R1 research institution",
+      "page": 2
+    },
+    {
+      "level": "0",
+      "text": "and students with a strong STEM curriculum that includes",
+      "page": 2
+    },
+    {
+      "level": "0",
+      "text": "research or lab work are generally more competitive in our",
+      "page": 2
+    },
+    {
+      "level": "0",
+      "text": "applicant pool and more success as students at",
+      "page": 2
+    },
+    {
+      "level": "0",
+      "text": "Binghamton because of their early HS experience.\u201d",
+      "page": 2
+    },
+    {
+      "level": "0",
+      "text": "Towson University:",
+      "page": 2
+    },
+    {
+      "level": "0",
+      "text": "\u201cParticipation in this program would",
+      "page": 2
+    },
+    {
+      "level": "0",
+      "text": "show us that the student is challenging him/herself in their",
+      "page": 2
+    },
+    {
+      "level": "0",
+      "text": "courses which is something we look at when reviewing",
+      "page": 2
+    },
+    {
+      "level": "0",
+      "text": "applications.\u201d",
+      "page": 2
+    },
+    {
+      "level": "0",
+      "text": "Drew University:",
+      "page": 2
+    },
+    {
+      "level": "0",
+      "text": "\u201cYes,it would show that they are",
+      "page": 2
+    },
+    {
+      "level": "0",
+      "text": "challenging themselves in the classroom.\u201d",
+      "page": 2
+    },
+    {
+      "level": "0",
+      "text": "NJIT:",
+      "page": 2
+    },
+    {
+      "level": "0",
+      "text": "\u201cYes- this would demonstrate to Admissions that a",
+      "page": 2
+    },
+    {
+      "level": "0",
+      "text": "student is interested in STEM programs, and would be a",
+      "page": 2
+    },
+    {
+      "level": "0",
+      "text": "strong candidate for our programs.\u201d",
+      "page": 2
+    },
+    {
+      "level": "0",
+      "text": "Ithaca College:",
+      "page": 2
+    },
+    {
+      "level": "0",
+      "text": "\u201cYes, we look for students who participate",
+      "page": 2
+    },
+    {
+      "level": "0",
+      "text": "in classes and activities that enhance their knowledge and",
+      "page": 2
+    },
+    {
+      "level": "0",
+      "text": "skills in their area of interest.\u201d",
+      "page": 2
+    },
+    {
+      "level": "0",
+      "text": "Montclair University:",
+      "page": 2
+    },
+    {
+      "level": "0",
+      "text": "\u201cRigorous math and science lab",
+      "page": 2
+    },
+    {
+      "level": "0",
+      "text": "classes beyond standard curriculum could be looked at for",
+      "page": 2
+    },
+    {
+      "level": "0",
+      "text": "scholarship eligibility along with high GPA.\u201d",
+      "page": 2
+    }
+  ]
+}
