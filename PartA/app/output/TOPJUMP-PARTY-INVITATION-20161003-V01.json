@@ -1,125 +1,24 @@
-{
-  "title": "HOPE",
-  "outline": [
-    {
-      "level": "0",
-      "text": "ADDRESS:",
-      "page": 1
-    },
-    {
-      "level": "0",
-      "text": "TOPJUMP",
-      "page": 1
-    },
-    {
-      "level": "0",
-      "text": "3735",
-      "page": 1
-    },
-    {
-      "level": "0",
-      "text": "PARKWAY",
-      "page": 1
-    },
-    {
-      "level": "0",
-      "text": "PIGEON FORGE, TN 37863",
-      "page": 1
-    },
-    {
-      "level": "0",
-      "text": "(NEAR DIXIE STAMPEDE",
-      "page": 1
-    },
-    {
-      "level": "0",
-      "text": "THE PARKWAY)",
-      "page": 1
-    },
-    {
-      "level": "0",
-      "text": "RSVP:",
-      "page": 1
-    },
-    {
-      "level": "0",
-      "text": "----------------",
-      "page": 1
-    },
-    {
-      "level": "0",
-      "text": "CLOSED TOED SHOES",
-      "page": 1
-    },
-    {
-      "level": "0",
-      "text": "ARE",
-      "page": 1
-    },
-    {
-      "level": "0",
-      "text": "REQUIRED FOR CLIMBING",
-      "page": 1
-    },
-    {
-      "level": "0",
-      "text": "PARENTS",
-      "page": 1
-    },
-    {
-      "level": "0",
-      "text": "GUARDIANS NOT ATTENDING THE PARTY,",
-      "page": 1
-    },
-    {
-      "level": "0",
-      "text": "PLEASE VISIT",
-      "page": 1
-    },
-    {
-      "level": "0",
-      "text": "TOPJUMP.COM",
-      "page": 1
-    },
-    {
-      "level": "0",
-      "text": "FILL",
-      "page": 1
-    },
-    {
-      "level": "0",
-      "text": "OUT",
-      "page": 1
-    },
-    {
-      "level": "0",
-      "text": "WAIVER",
-      "page": 1
-    },
-    {
-      "level": "0",
-      "text": "SO YOUR CHILD CAN ATTEND.",
-      "page": 1
-    },
-    {
-      "level": "0",
-      "text": "HOPE",
-      "page": 1
-    },
-    {
-      "level": "0",
-      "text": "SEE",
-      "page": 1
-    },
-    {
-      "level": "0",
-      "text": "HERE",
-      "page": 1
-    },
-    {
-      "level": "0",
-      "text": "WWW.TOPJUMP.COM",
-      "page": 1
-    }
-  ]
-}
+[
+  {
+    "text": "HOPE To SEE Y ou T HERE !",
+    "font_size": 22.700607299804688,
+    "bold": 0,
+    "length": 25,
+    "is_upper": 0,
+    "indent": 33.42,
+    "spacing_before": 1.37,
+    "spacing_after": 10.46,
+    "page": 0
+  },
+  {
+    "text": "WWW.TOPJUMP.COM",
+    "font_size": 18.025842666625977,
+    "bold": 0,
+    "length": 15,
+    "is_upper": 1,
+    "indent": 93.79,
+    "spacing_before": 10.46,
+    "spacing_after": 0,
+    "page": 0
+  }
+]
