@@ -1,35 +1,15 @@
 {
-  "title": "Mission Statement:  To provide PTHSD high school students with the opportunity to",
+  "title": "",
   "outline": [
     {
-      "level": "H4",
-      "text": "Goals:",
+      "level": "2",
+      "text": "PATHWAY OPTIONS",
       "page": 0
     },
     {
-      "level": "H4",
-      "text": "Films",
-      "page": 1
-    },
-    {
-      "level": "H4",
-      "text": "For more information and our application please visit our website by clicking here .",
-      "page": 1
-    },
-    {
-      "level": "Title",
-      "text": "When asked the question, \u201cWould participation in the",
-      "page": 1
-    },
-    {
-      "level": "Title",
-      "text": "show us that the student is challenging him/herself in their",
-      "page": 1
-    },
-    {
-      "level": "H4",
-      "text": "applications.\u201d",
-      "page": 1
+      "level": "0",
+      "text": "REGULAR PATHWAY DISTINCTION PATHWAY",
+      "page": 0
     }
   ]
 }

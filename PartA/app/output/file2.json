@@ -1,0 +1,11 @@
+{
+  "title": "Climate Change 2023: Synthesis Report – Summary for Policymakers",
+  "outline": [
+    { "level": "H1", "text": "SPM.A Current Status and Trends",                       "page": 8 },
+    { "level": "H2", "text": "Observed Warming and its Causes",                       "page": 9 },
+    { "level": "H1", "text": "SPM.B Future Climate Change, Risks, and Long‑Term Responses", "page": 16 },
+    { "level": "H2", "text": "Future Climate Change",                                 "page": 17 },
+    { "level": "H1", "text": "SPM.C Responses in the Near Term",                      "page": 28 },
+    { "level": "H2", "text": "Urgency of Near‑Term Integrated Climate Action",        "page": 29 }
+  ]
+}

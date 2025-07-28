@@ -6,10 +6,24 @@
     "length": 41,
     "is_upper": 0,
     "indent": 199.86,
+    "line_top": 106.07516479492188,
+    "line_bottom": 119.11274719238281,
     "spacing_before": 106.08,
-    "spacing_after": 16.83,
+    "spacing_after": 16.82,
+    "ends_with_colon": 0,
+    "is_short": 1,
+    "is_numbered": 0,
+    "first_page": 1,
     "page": 0,
-    "line_top": 106.07836151123047,
-    "line_bottom": 119.10208129882812
+    "num_words": 7,
+    "num_verbs": 0,
+    "num_nouns": 5,
+    "num_adjectives": 0,
+    "num_adverbs": 0,
+    "num_pronouns": 0,
+    "num_cardinals": 0,
+    "num_conjunctions": 0,
+    "num_predeterminers": 0,
+    "num_interjections": 0
   }
 ]
