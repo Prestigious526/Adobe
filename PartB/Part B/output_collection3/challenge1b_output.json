@@ -1,0 +1,517 @@
+{
+  "metadata": {
+    "input_documents": [
+      "Breakfast Ideas.pdf",
+      "Dinner Ideas - Mains_1.pdf",
+      "Dinner Ideas - Mains_2.pdf",
+      "Dinner Ideas - Mains_3.pdf",
+      "Dinner Ideas - Sides_1.pdf",
+      "Dinner Ideas - Sides_2.pdf",
+      "Dinner Ideas - Sides_3.pdf",
+      "Dinner Ideas - Sides_4.pdf",
+      "Lunch Ideas.pdf"
+    ],
+    "persona": "Food Contractor",
+    "job_to_be_done": "Prepare a vegetarian buffet-style dinner menu for a corporate gathering, including gluten-free items.",
+    "processing_timestamp": "2025-07-28T09:11:57.699737"
+  },
+  "extracted_sections": [
+    {
+      "document": "Lunch Ideas.pdf",
+      "section_title": "• Lay a sheet of nori on a bamboo sushi mat.",
+      "importance_rank": 1,
+      "page_number": 11
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "section_title": "• Thread the chicken, bell pepper, zucchini, and red onion onto skewers.",
+      "importance_rank": 2,
+      "page_number": 10
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "section_title": "• Lay the tortilla flat and sprinkle half of the cheese on one side.",
+      "importance_rank": 3,
+      "page_number": 13
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "section_title": "• • Add bell pepper, broccoli, and snap peas, and stir-fry until tender.",
+      "importance_rank": 4,
+      "page_number": 7
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "section_title": "1 whole wheat tortilla • 1 cup cooked chicken breast, sliced • 1 cup romaine lettuce, chopped • • 2...",
+      "importance_rank": 5,
+      "page_number": 2
+    },
+    {
+      "document": "Dinner Ideas - Mains_1.pdf",
+      "section_title": "• Preheat oven to 400°F (200°C).",
+      "importance_rank": 1,
+      "page_number": 6
+    },
+    {
+      "document": "Dinner Ideas - Mains_1.pdf",
+      "section_title": "• Cook fettuccine according to package instructions.",
+      "importance_rank": 2,
+      "page_number": 6
+    },
+    {
+      "document": "Dinner Ideas - Mains_1.pdf",
+      "section_title": "• Soak rice noodles in warm water until softened, then drain.",
+      "importance_rank": 3,
+      "page_number": 7
+    },
+    {
+      "document": "Dinner Ideas - Mains_1.pdf",
+      "section_title": "• Marinate chicken cubes in the mixture for at least 1 hour.",
+      "importance_rank": 4,
+      "page_number": 9
+    },
+    {
+      "document": "Dinner Ideas - Mains_1.pdf",
+      "section_title": "• • Add diced onion and minced garlic, sauté until translucent.",
+      "importance_rank": 5,
+      "page_number": 2
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "section_title": "• Preheat oven to 350°F (175°C).",
+      "importance_rank": 1,
+      "page_number": 10
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "section_title": "• Preheat oven to 375°F (190°C).",
+      "importance_rank": 2,
+      "page_number": 9
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "section_title": "• Preheat oven to 375°F (190°C).",
+      "importance_rank": 3,
+      "page_number": 11
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "section_title": "• • Add sliced onion, minced garlic, sliced ginger, star anise, and cinnamon stick.",
+      "importance_rank": 4,
+      "page_number": 6
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "section_title": "• • Cook diced onion and minced garlic until softened.",
+      "importance_rank": 5,
+      "page_number": 4
+    },
+    {
+      "document": "Dinner Ideas - Mains_3.pdf",
+      "section_title": "In a bowl, mix yogurt, lemon juice, garlic, ginger, garam masala, turmeric, and cumin.",
+      "importance_rank": 1,
+      "page_number": 5
+    },
+    {
+      "document": "Dinner Ideas - Mains_3.pdf",
+      "section_title": "• Preheat oven to 375°F (190°C).",
+      "importance_rank": 2,
+      "page_number": 3
+    },
+    {
+      "document": "Dinner Ideas - Mains_3.pdf",
+      "section_title": "In a large pot, heat olive oil over medium heat.",
+      "importance_rank": 3,
+      "page_number": 7
+    },
+    {
+      "document": "Dinner Ideas - Mains_3.pdf",
+      "section_title": "• Preheat oven to 375°F (190°C).",
+      "importance_rank": 4,
+      "page_number": 8
+    },
+    {
+      "document": "Dinner Ideas - Mains_3.pdf",
+      "section_title": "• 1 pound boneless chicken thighs, cubed • 1 cup plain yogurt • 1 tablespoon lemon juice • 2 cloves...",
+      "importance_rank": 5,
+      "page_number": 4
+    },
+    {
+      "document": "Breakfast Ideas.pdf",
+      "section_title": "In a bowl, whisk together flour, sugar, baking powder, baking soda, and salt.",
+      "importance_rank": 1,
+      "page_number": 2
+    },
+    {
+      "document": "Breakfast Ideas.pdf",
+      "section_title": "• Preheat oven to 350°F (175°C).",
+      "importance_rank": 2,
+      "page_number": 6
+    },
+    {
+      "document": "Breakfast Ideas.pdf",
+      "section_title": "• Preheat oven to 350°F (175°C).",
+      "importance_rank": 3,
+      "page_number": 11
+    },
+    {
+      "document": "Breakfast Ideas.pdf",
+      "section_title": "• Preheat oven to 350°F (175°C).",
+      "importance_rank": 4,
+      "page_number": 9
+    },
+    {
+      "document": "Breakfast Ideas.pdf",
+      "section_title": "• Preheat oven to 375°F (190°C).",
+      "importance_rank": 5,
+      "page_number": 8
+    },
+    {
+      "document": "Dinner Ideas - Sides_1.pdf",
+      "section_title": "o Sauté ground beef, diced onion, and minced garlic until cooked.",
+      "importance_rank": 1,
+      "page_number": 10
+    },
+    {
+      "document": "Dinner Ideas - Sides_1.pdf",
+      "section_title": "o Mix rice flour, coconut milk, water, turmeric, and salt to form a batter.",
+      "importance_rank": 2,
+      "page_number": 6
+    },
+    {
+      "document": "Dinner Ideas - Sides_1.pdf",
+      "section_title": "o Preheat oven to 375°F (190°C).",
+      "importance_rank": 3,
+      "page_number": 9
+    },
+    {
+      "document": "Dinner Ideas - Sides_1.pdf",
+      "section_title": "o Dissolve yeast and sugar in warm water, let sit until foamy.",
+      "importance_rank": 4,
+      "page_number": 6
+    },
+    {
+      "document": "Dinner Ideas - Sides_1.pdf",
+      "section_title": "o Mix rice flour, water, coconut milk, salt, and sugar to form a batter.",
+      "importance_rank": 5,
+      "page_number": 5
+    },
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "section_title": "o Mix flour, milk, beaten eggs, salt, and nutmeg to form a batter.",
+      "importance_rank": 1,
+      "page_number": 4
+    },
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "section_title": "o Dissolve yeast and sugar in warm water, let sit until foamy.",
+      "importance_rank": 2,
+      "page_number": 8
+    },
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "section_title": "o Cut tofu into cubes and set aside.",
+      "importance_rank": 3,
+      "page_number": 10
+    },
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "section_title": "o Dissolve yeast and sugar in warm water, let sit until foamy.",
+      "importance_rank": 4,
+      "page_number": 13
+    },
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "section_title": "o Soak rice noodles in warm water until softened, then drain.",
+      "importance_rank": 5,
+      "page_number": 15
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "section_title": "o Rinse grape leaves and pat dry.",
+      "importance_rank": 1,
+      "page_number": 4
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "section_title": "o Sauté diced onion and minced garlic until softened.",
+      "importance_rank": 2,
+      "page_number": 2
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "section_title": "o Soak beans overnight, then cook until tender.",
+      "importance_rank": 3,
+      "page_number": 12
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "section_title": "o Melt butter in a saucepan, stir in flour to make a roux.",
+      "importance_rank": 4,
+      "page_number": 3
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "section_title": "o Preheat oven to 400°F (200°C).",
+      "importance_rank": 5,
+      "page_number": 3
+    },
+    {
+      "document": "Dinner Ideas - Sides_4.pdf",
+      "section_title": "o Dissolve yeast and sugar in warm water, let sit until foamy.",
+      "importance_rank": 1,
+      "page_number": 5
+    },
+    {
+      "document": "Dinner Ideas - Sides_4.pdf",
+      "section_title": "o Preheat oven to 375°F (190°C).",
+      "importance_rank": 2,
+      "page_number": 7
+    },
+    {
+      "document": "Dinner Ideas - Sides_4.pdf",
+      "section_title": "o Heat broth in a pot and keep warm.",
+      "importance_rank": 3,
+      "page_number": 10
+    },
+    {
+      "document": "Dinner Ideas - Sides_4.pdf",
+      "section_title": "o Preheat oven to 350°F (175°C).",
+      "importance_rank": 4,
+      "page_number": 7
+    },
+    {
+      "document": "Dinner Ideas - Sides_4.pdf",
+      "section_title": "o Sauté diced onion, minced garlic, and diced bell pepper until softened.",
+      "importance_rank": 5,
+      "page_number": 14
+    }
+  ],
+  "subsection_analysis": [
+    {
+      "document": "Lunch Ideas.pdf",
+      "refined_text": "a bamboo sushi mat has a 1-inch border. roll the nori tightly using the bamboo mat. sliced into bite-sized pieces and serve with soy sauce.",
+      "page_number": 11
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "refined_text": "thread chicken, bell pepper, zucchini, and red onion onto skewers. serve cold or reheat before serving. reheat your oven to 350 degrees.",
+      "page_number": 10
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "refined_text": "the tortilla is golden brown and has a golden brown color. cook in a skillet over medium heat until the cheese is melted.",
+      "page_number": 13
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "refined_text": "add bell pepper, broccoli, and snap peas. stir-fry until tender. serve over rice. if you have any questions, please contact us.",
+      "page_number": 7
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "refined_text": "tortillas are a perfect choice for extra crunch. croutons are a great option for extra crunch. croutons are a great option for extra crunch.",
+      "page_number": 2
+    },
+    {
+      "document": "Dinner Ideas - Mains_1.pdf",
+      "refined_text": "mashed potatoes and grated cheddar cheese are all covered. heat oven to 400°F (200°C). mashed potatoes are sprinkled with grated cheddar cheese.",
+      "page_number": 6
+    },
+    {
+      "document": "Dinner Ideas - Mains_1.pdf",
+      "refined_text": "fettuccine is cooked according to package instructions. add minced garlic and sauté until fragrant. pour heavy cream into the skillet and bring to a simmer.",
+      "page_number": 6
+    },
+    {
+      "document": "Dinner Ideas - Mains_1.pdf",
+      "refined_text": "sauté shrimp or chicken in vegetable oil until cooked. sauté eggs in same pan. add bean sprouts, cooked shrimp or chicken, and chopped green onions.",
+      "page_number": 7
+    },
+    {
+      "document": "Dinner Ideas - Mains_1.pdf",
+      "refined_text": "in a large skillet, heat vegetable oil over medium heat. cook diced onion until translucent. add diced tomatoes and simmer for an additional 10 minutes.",
+      "page_number": 9
+    },
+    {
+      "document": "Dinner Ideas - Mains_1.pdf",
+      "refined_text": "sauté beef broth until tender. add mushrooms and cook until tender. add sour cream and paprika, season with salt and pepper.",
+      "page_number": 2
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "refined_text": "in a large pot, melt butter over medium heat. cook bacon until crispy, then set aside. add diced onion, minced garlic, sliced mushrooms, and carrots.",
+      "page_number": 10
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "refined_text": "in a large skillet, melt butter over medium heat. cook diced onion and minced garlic until softened. add cubed chicken and cook until browned.",
+      "page_number": 9
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "refined_text": "enchiladas are shredded cheese and sprinkle with shredded cheese. enchiladas are a popular dish for enchiladas.",
+      "page_number": 11
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "refined_text": "sliced onion, minced garlic, sliced ginger, star anise, and cinnamon stick. pour hot broth over top.",
+      "page_number": 6
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "refined_text": "sauté chicken and cook until browned. add green curry paste, coconut milk, chicken broth, fish sauce. serve over cooked rice.",
+      "page_number": 4
+    },
+    {
+      "document": "Dinner Ideas - Mains_3.pdf",
+      "refined_text": "in a bowl, mix yogurt, lemon juice, garlic, ginger, garam masala, turmeric, and cumin. in a skillet, melt butter over medium heat.",
+      "page_number": 5
+    },
+    {
+      "document": "Dinner Ideas - Mains_3.pdf",
+      "refined_text": "375°F (190°C) heat oven to 375°F (190°C) cut parchment paper into large squares. top with lemon slices, sliced onion, and sliced zucchini.",
+      "page_number": 3
+    },
+    {
+      "document": "Dinner Ideas - Mains_3.pdf",
+      "refined_text": "in a large pot, heat olive oil over medium heat. sauté onion and garlic until softened. sauté onion and garlic until softened.",
+      "page_number": 7
+    },
+    {
+      "document": "Dinner Ideas - Mains_3.pdf",
+      "refined_text": "375°F (190°C) heat olive oil in a skillet over medium heat. sauté chicken on both sides and bake for 20-25 minutes.",
+      "page_number": 8
+    },
+    {
+      "document": "Dinner Ideas - Mains_3.pdf",
+      "refined_text": "chicken thighs, cubed chicken thighs, cubed chicken thighs, cubed chicken thighs, cubed chicken thighs, cubed chicken thighs, cubed chicken thighs, cubed chicken thighs, cubed. 1 cup yogurt, 1 tablespoon lemon juice, minced ginger, minced ginger, minced ginger, cumin, cumin, cumin, cumin, cumin, cumin, cumin, cumin, cumin, cumin, cumin, cumin, cumin, cumin,",
+      "page_number": 4
+    },
+    {
+      "document": "Breakfast Ideas.pdf",
+      "refined_text": "in a bowl, whisk together flour, sugar, baking powder, baking soda, and salt. pour the wet ingredients into the dry ingredients and stir until just combined.",
+      "page_number": 2
+    },
+    {
+      "document": "Breakfast Ideas.pdf",
+      "refined_text": "in a bowl, mix mashed bananas and melted butter. add sugar, beaten egg, and vanilla extract. pour batter into a greased loaf pan.",
+      "page_number": 6
+    },
+    {
+      "document": "Breakfast Ideas.pdf",
+      "refined_text": "in a bowl, whisk together eggs, milk, salt, and pepper. stir in cheese, bell pepper, onion, and sausage or bacon.",
+      "page_number": 11
+    },
+    {
+      "document": "Breakfast Ideas.pdf",
+      "refined_text": "in a bowl, whisk together eggs, milk, salt, and pepper. pour mixture into a greased baking dish. bake for 30-35 minutes or until eggs are set.",
+      "page_number": 9
+    },
+    {
+      "document": "Breakfast Ideas.pdf",
+      "refined_text": "375°F (190°C) pan over low heat. pour the wet ingredients into the dry ingredients. stir until just combined.",
+      "page_number": 8
+    },
+    {
+      "document": "Dinner Ideas - Sides_1.pdf",
+      "refined_text": "sauté ground beef, diced onion, and minced garlic until cooked. o Stir in chopped parsley, cumin, cinnamon, salt, and pepper.",
+      "page_number": 10
+    },
+    {
+      "document": "Dinner Ideas - Sides_1.pdf",
+      "refined_text": "o Heat oil in a pan and pour in a ladle of batter, swirling to coat the pan. add cooked pork, shrimp, bean sprouts, green onions, and cilantro.",
+      "page_number": 6
+    },
+    {
+      "document": "Dinner Ideas - Sides_1.pdf",
+      "refined_text": "o Preheat oven to 375°F (190°C) o Slice potatoes, zucchinis, eggplants, and tomatoes. sauté diced onion and minced garlic in olive oil until softened.",
+      "page_number": 9
+    },
+    {
+      "document": "Dinner Ideas - Sides_1.pdf",
+      "refined_text": "o Dissolve yeast and sugar in warm water, let sit until foamy. o Knead until smooth, then let rise until doubled.",
+      "page_number": 6
+    },
+    {
+      "document": "Dinner Ideas - Sides_1.pdf",
+      "refined_text": "o Pour batter into small dishes and steam until set. o Top steamed cakes with shrimp, green onions, and fried shallots.",
+      "page_number": 5
+    },
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "refined_text": "o Mix flour, milk, beaten eggs, salt, and nutmeg to form a batter. o Press batter through a spaetzle maker or colander into boiling water. o Sauté sliced onion in butter until golden.",
+      "page_number": 4
+    },
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "refined_text": "o Dissolve yeast and sugar in warm water, let sit until foamy. o Knead until smooth, then let rise until doubled.",
+      "page_number": 8
+    },
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "refined_text": "tofu is cut into cubes and set aside. sauté ground pork, diced onion, and minced garlic until browned.",
+      "page_number": 10
+    },
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "refined_text": "o Dissolve yeast and sugar in warm water, let sit until foamy. o Knead until smooth, then let rise until doubled.",
+      "page_number": 13
+    },
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "refined_text": "sauté sliced chicken in vegetable oil until cooked, then set aside. add noodles, soy sauce, oyster sauce, and sugar, stir-fry.",
+      "page_number": 15
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "refined_text": "sauté diced onion in olive oil until translucent. add rice, pine nuts, and currants, cook for 5 minutes.",
+      "page_number": 4
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "refined_text": "sauté diced onion and minced garlic until softened. o Form mixture into drumstick shapes. o Dredge in flour, dip in beaten eggs, and coat with breadcrumbs.",
+      "page_number": 2
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "refined_text": "o Soak beans overnight, then cook until tender. sauté diced onion and minced garlic in olive oil until softened.",
+      "page_number": 12
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "refined_text": "o Melt butter in a saucepan, stir in flour to make a roux. add milk, stirring constantly until thickened.",
+      "page_number": 3
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "refined_text": "o Preheat oven to 400°F (200°C) o Spread béchamel sauce on 4 slices of bread. o Top with ham and grated cheese, then cover with remaining bread slices.",
+      "page_number": 3
+    },
+    {
+      "document": "Dinner Ideas - Sides_4.pdf",
+      "refined_text": "o Dissolve yeast and sugar in warm water, let sit until foamy. o Knead until smooth, then let rise until doubled. o Boil water with baking soda and dip pretzels in the solution.",
+      "page_number": 5
+    },
+    {
+      "document": "Dinner Ideas - Sides_4.pdf",
+      "refined_text": "o Preheat oven to 375°F (190°C) o Cook bacon until crispy, then crumble. o Beat eggs with cream, salt, and pepper, then pour over the filling.",
+      "page_number": 7
+    },
+    {
+      "document": "Dinner Ideas - Sides_4.pdf",
+      "refined_text": "sauté diced onion and minced garlic in olive oil until translucent. add broth one ladle at a time, stirring constantly until absorbed.",
+      "page_number": 10
+    },
+    {
+      "document": "Dinner Ideas - Sides_4.pdf",
+      "refined_text": "o Preheat oven to 350°F (175°C) o Mix sugar, coconut, melted butter, egg yolks, and vanilla extract in a bowl. o Bake for 30-35 minutes until set and golden.",
+      "page_number": 7
+    },
+    {
+      "document": "Dinner Ideas - Sides_4.pdf",
+      "refined_text": "sauté diced onion, minced garlic, and diced bell pepper until softened. add diced tomatoes, cumin, paprika, and salt, simmer for 10 minutes.",
+      "page_number": 14
+    }
+  ]
+}

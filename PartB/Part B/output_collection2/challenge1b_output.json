@@ -1,0 +1,853 @@
+{
+  "metadata": {
+    "input_documents": [
+      "Learn Acrobat - Create and Convert_1.pdf",
+      "Learn Acrobat - Create and Convert_2.pdf",
+      "Learn Acrobat - Edit_1.pdf",
+      "Learn Acrobat - Edit_2.pdf",
+      "Learn Acrobat - Export_1.pdf",
+      "Learn Acrobat - Export_2.pdf",
+      "Learn Acrobat - Fill and Sign.pdf",
+      "Learn Acrobat - Generative AI_1.pdf",
+      "Learn Acrobat - Generative AI_2.pdf",
+      "Learn Acrobat - Request e-signatures_1.pdf",
+      "Learn Acrobat - Request e-signatures_2.pdf",
+      "Learn Acrobat - Share_1.pdf",
+      "Learn Acrobat - Share_2.pdf",
+      "Test Your Acrobat Exporting Skills.pdf",
+      "The Ultimate PDF Sharing Checklist.pdf"
+    ],
+    "persona": "HR professional",
+    "job_to_be_done": "Create and manage fillable forms for onboarding and compliance.",
+    "processing_timestamp": "2025-07-28T09:10:32.981010"
+  },
+  "extracted_sections": [
+    {
+      "document": "Test Your Acrobat Exporting Skills.pdf",
+      "section_title": "Welcome to the ultimate test of your Acrobat exporting skills! Think you know everything about savin...",
+      "importance_rank": 1,
+      "page_number": 1
+    },
+    {
+      "document": "Test Your Acrobat Exporting Skills.pdf",
+      "section_title": "3.",
+      "importance_rank": 2,
+      "page_number": 1
+    },
+    {
+      "document": "Test Your Acrobat Exporting Skills.pdf",
+      "section_title": "12. Scenario: You're a student who needs to convert a PDF to a DOCX file for your thesis. Do",
+      "importance_rank": 3,
+      "page_number": 1
+    },
+    {
+      "document": "Test Your Acrobat Exporting Skills.pdf",
+      "section_title": "18. Scenario: You're a web developer who needs to export a PDF to HTML for your website.",
+      "importance_rank": 4,
+      "page_number": 2
+    },
+    {
+      "document": "Test Your Acrobat Exporting Skills.pdf",
+      "section_title": "17. True or False: You can use the Snapshot tool to copy selected content as an image.",
+      "importance_rank": 5,
+      "page_number": 2
+    },
+    {
+      "document": "Learn Acrobat - Generative AI_2.pdf",
+      "section_title": "GenAl Assistant allows users to process up to 10 documents simultaneously, including non- PDF format...",
+      "importance_rank": 1,
+      "page_number": 8
+    },
+    {
+      "document": "Learn Acrobat - Generative AI_2.pdf",
+      "section_title": "You can access your conversation threads with Acrobat's AI Assistant across sessions.",
+      "importance_rank": 2,
+      "page_number": 1
+    },
+    {
+      "document": "Learn Acrobat - Generative AI_2.pdf",
+      "section_title": "If you're a Teams user, your administrator can turn on the option to request access to the AI Assist...",
+      "importance_rank": 3,
+      "page_number": 12
+    },
+    {
+      "document": "Learn Acrobat - Generative AI_2.pdf",
+      "section_title": "You can manage the deployment of Acrobat AI Assistant through the Adobe Admin Console.",
+      "importance_rank": 4,
+      "page_number": 18
+    },
+    {
+      "document": "Learn Acrobat - Generative AI_2.pdf",
+      "section_title": "2.",
+      "importance_rank": 5,
+      "page_number": 10
+    },
+    {
+      "document": "The Ultimate PDF Sharing Checklist.pdf",
+      "section_title": "information, this checklist will ensure you cover all the bases. Let's dive",
+      "importance_rank": 1,
+      "page_number": 1
+    },
+    {
+      "document": "The Ultimate PDF Sharing Checklist.pdf",
+      "section_title": "documents. By following these checklists, you can ensure that your",
+      "importance_rank": 2,
+      "page_number": 3
+    },
+    {
+      "document": "The Ultimate PDF Sharing Checklist.pdf",
+      "section_title": "• Did you enter the email addresses of clients, agents, and other",
+      "importance_rank": 3,
+      "page_number": 3
+    },
+    {
+      "document": "The Ultimate PDF Sharing Checklist.pdf",
+      "section_title": "• Have you decided if clients can comment on the document or",
+      "importance_rank": 4,
+      "page_number": 2
+    },
+    {
+      "document": "The Ultimate PDF Sharing Checklist.pdf",
+      "section_title": "• Did you enter the email addresses of everyone who needs",
+      "importance_rank": 5,
+      "page_number": 1
+    },
+    {
+      "document": "Learn Acrobat - Generative AI_1.pdf",
+      "section_title": "AI Assistant quickly gets answers to your questions based on your documents in a comprehensive and i...",
+      "importance_rank": 1,
+      "page_number": 2
+    },
+    {
+      "document": "Learn Acrobat - Generative AI_1.pdf",
+      "section_title": "cues indicating where generated information came from.",
+      "importance_rank": 2,
+      "page_number": 4
+    },
+    {
+      "document": "Learn Acrobat - Generative AI_1.pdf",
+      "section_title": "Content usage and handling practices This FAQ addresses Adobe’s content usage and handling practices...",
+      "importance_rank": 3,
+      "page_number": 4
+    },
+    {
+      "document": "Learn Acrobat - Generative AI_1.pdf",
+      "section_title": "No.",
+      "importance_rank": 4,
+      "page_number": 5
+    },
+    {
+      "document": "Learn Acrobat - Generative AI_1.pdf",
+      "section_title": "In addition, please always use your judgment to evaluate generated output and any source attribution...",
+      "importance_rank": 5,
+      "page_number": 3
+    },
+    {
+      "document": "Learn Acrobat - Export_2.pdf",
+      "section_title": "Colors in the selected area are inverted momentarily to highlight the selection.",
+      "importance_rank": 1,
+      "page_number": 3
+    },
+    {
+      "document": "Learn Acrobat - Export_2.pdf",
+      "section_title": "Open the Preferences dialog box if you cannot select an image because of overlapping text.",
+      "importance_rank": 2,
+      "page_number": 1
+    },
+    {
+      "document": "Learn Acrobat - Export_2.pdf",
+      "section_title": "You can use the Snapshot tool to copy all selected content (text, images, or both) to the clipboard...",
+      "importance_rank": 3,
+      "page_number": 3
+    },
+    {
+      "document": "Learn Acrobat - Export_2.pdf",
+      "section_title": "You can save all the images from a PDF.",
+      "importance_rank": 4,
+      "page_number": 3
+    },
+    {
+      "document": "Learn Acrobat - Export_2.pdf",
+      "section_title": "Use the Select tool to copy and paste individual images from a PDF to the clipboard, another applica...",
+      "importance_rank": 5,
+      "page_number": 1
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "section_title": "Enhance scanned file or camera images for clear PDFs You can capture document photos with your smart...",
+      "importance_rank": 1,
+      "page_number": 16
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "section_title": "Editing a scanned PDF can be complicated if it includes low-quality text or images, non- editable te...",
+      "importance_rank": 2,
+      "page_number": 14
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "section_title": "You can replace an entire PDF page with another PDF page.",
+      "importance_rank": 3,
+      "page_number": 10
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "section_title": "Check the accuracy of optical character recognition (OCR) output.",
+      "importance_rank": 4,
+      "page_number": 14
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "section_title": "The page numbers on the document pages don't always match the page numbers that appear below the pag...",
+      "importance_rank": 5,
+      "page_number": 13
+    },
+    {
+      "document": "Learn Acrobat - Export_1.pdf",
+      "section_title": "The Autosave feature guards against losing your work in case of a power failure by incrementally, an...",
+      "importance_rank": 1,
+      "page_number": 4
+    },
+    {
+      "document": "Learn Acrobat - Export_1.pdf",
+      "section_title": "You can export a PDF to PostScript for printing and prepress applications.",
+      "importance_rank": 2,
+      "page_number": 20
+    },
+    {
+      "document": "Learn Acrobat - Export_1.pdf",
+      "section_title": "The PostScript Printer Description (PPD) provides the necessary information to format a PostScript f...",
+      "importance_rank": 3,
+      "page_number": 21
+    },
+    {
+      "document": "Learn Acrobat - Export_1.pdf",
+      "section_title": "If you use the Export To or Export All Images command on a PDF that contains JPEG and JPEG 2000 imag...",
+      "importance_rank": 4,
+      "page_number": 9
+    },
+    {
+      "document": "Learn Acrobat - Export_1.pdf",
+      "section_title": "To export a part of the PDF file into another format, you don’t need to convert the entire file and...",
+      "importance_rank": 5,
+      "page_number": 27
+    },
+    {
+      "document": "Learn Acrobat - Edit_1.pdf",
+      "section_title": "You might encounter formatting challenges that require manual adjustments.",
+      "importance_rank": 1,
+      "page_number": 13
+    },
+    {
+      "document": "Learn Acrobat - Edit_1.pdf",
+      "section_title": "You can edit an image or graphic using another application, such as Photoshop, Illustrator, or Micro...",
+      "importance_rank": 2,
+      "page_number": 16
+    },
+    {
+      "document": "Learn Acrobat - Edit_1.pdf",
+      "section_title": "Arrange objects: To move an image or object in front of or behind other elements.",
+      "importance_rank": 3,
+      "page_number": 14
+    },
+    {
+      "document": "Learn Acrobat - Edit_1.pdf",
+      "section_title": "horizontal, center, and bottom.",
+      "importance_rank": 4,
+      "page_number": 14
+    },
+    {
+      "document": "Learn Acrobat - Edit_1.pdf",
+      "section_title": "Note: Select multiple items if you want to edit them together in the same file.",
+      "importance_rank": 5,
+      "page_number": 16
+    },
+    {
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "section_title": "• Flat forms: These do not have interactive fields.",
+      "importance_rank": 1,
+      "page_number": 2
+    },
+    {
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "section_title": "The Auto-Complete feature stores any entries that you type in an interactive form field.",
+      "importance_rank": 2,
+      "page_number": 10
+    },
+    {
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "section_title": "Not all forms are fillable.",
+      "importance_rank": 3,
+      "page_number": 8
+    },
+    {
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "section_title": "To sign a PDF document or form, you can type, draw, or insert an image of your handwritten signature...",
+      "importance_rank": 4,
+      "page_number": 15
+    },
+    {
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "section_title": "If you receive an email request for a signature from someone using Adobe Acrobat Sign, you can acces...",
+      "importance_rank": 5,
+      "page_number": 16
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_2.pdf",
+      "section_title": "To trust a certificate, it must be added to the user's trusted identity list in the Trusted Identity...",
+      "importance_rank": 1,
+      "page_number": 8
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_2.pdf",
+      "section_title": "In certain workflows, signature validation information may be unavailable during the signing but can...",
+      "importance_rank": 2,
+      "page_number": 11
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_2.pdf",
+      "section_title": "Certifying a PDF means approving its contents and specifying what changes are allowed for the docume...",
+      "importance_rank": 3,
+      "page_number": 6
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_2.pdf",
+      "section_title": "When you receive a signed document, you may want to validate its signature to verify the signer and...",
+      "importance_rank": 4,
+      "page_number": 1
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_2.pdf",
+      "section_title": "If certain information is not included in the PDF, the signature can only be validated for a limited...",
+      "importance_rank": 5,
+      "page_number": 10
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "section_title": "Signatures made with the Certify or Digitally sign options comply with data protection standards spe...",
+      "importance_rank": 1,
+      "page_number": 24
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "section_title": "Directory servers are commonly used as centralized repositories of identities within an organization...",
+      "importance_rank": 2,
+      "page_number": 27
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "section_title": "You can have multiple digital IDs that you use for different purposes, particularly if you sign docu...",
+      "importance_rank": 3,
+      "page_number": 27
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "section_title": "Consider signing up for Adobe Acrobat Sign online, the leader in e-signatures and web contracting.",
+      "importance_rank": 4,
+      "page_number": 21
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "section_title": "Seed values offer additional control to document authors by letting them specify which choices signe...",
+      "importance_rank": 5,
+      "page_number": 25
+    },
+    {
+      "document": "Learn Acrobat - Share_1.pdf",
+      "section_title": "In Acrobat for Windows®, you can export text edits directly to the Microsoft® Word document that the...",
+      "importance_rank": 1,
+      "page_number": 10
+    },
+    {
+      "document": "Learn Acrobat - Share_1.pdf",
+      "section_title": "Use the Acrobat to easily share PDF files for review from your desktop application, the Acrobat web,...",
+      "importance_rank": 2,
+      "page_number": 10
+    },
+    {
+      "document": "Learn Acrobat - Share_1.pdf",
+      "section_title": "Use @mention in your personal commenting notes to start a review.",
+      "importance_rank": 3,
+      "page_number": 12
+    },
+    {
+      "document": "Learn Acrobat - Share_1.pdf",
+      "section_title": "The reviewers receive an email invitation with a link to the review PDF.",
+      "importance_rank": 4,
+      "page_number": 12
+    },
+    {
+      "document": "Learn Acrobat - Share_1.pdf",
+      "section_title": "The reviewers receive an email invitation with a link to the review PDF.",
+      "importance_rank": 5,
+      "page_number": 11
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_1.pdf",
+      "section_title": "Mail merges from Word generate documents like form letters—for one common example— that are personal...",
+      "importance_rank": 1,
+      "page_number": 27
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_1.pdf",
+      "section_title": "Acrobat provides an option to use Adobe Create PDF cloud service in addition to a local conversion t...",
+      "importance_rank": 2,
+      "page_number": 13
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_1.pdf",
+      "section_title": "In Windows, Acrobat installs both an Acrobat PDFMaker toolbar and an Adobe PDF menu in many popular...",
+      "importance_rank": 3,
+      "page_number": 14
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_1.pdf",
+      "section_title": "PDFMaker conversion settings vary according to file types.",
+      "importance_rank": 4,
+      "page_number": 20
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_1.pdf",
+      "section_title": "This process can be useful for creating a one-page PDF.",
+      "importance_rank": 5,
+      "page_number": 11
+    },
+    {
+      "document": "Learn Acrobat - Share_2.pdf",
+      "section_title": "Use the Attach file tool to embed a file at a selected location in a PDF, so that the reader can ope...",
+      "importance_rank": 1,
+      "page_number": 14
+    },
+    {
+      "document": "Learn Acrobat - Share_2.pdf",
+      "section_title": "You can use annotation and drawing markup tools to add comments.",
+      "importance_rank": 2,
+      "page_number": 2
+    },
+    {
+      "document": "Learn Acrobat - Share_2.pdf",
+      "section_title": "You can use the Text callout tool to create a callout text box.",
+      "importance_rank": 3,
+      "page_number": 12
+    },
+    {
+      "document": "Learn Acrobat - Share_2.pdf",
+      "section_title": "You can group two or more markups so that your comments function as a single comment.",
+      "importance_rank": 4,
+      "page_number": 11
+    },
+    {
+      "document": "Learn Acrobat - Share_2.pdf",
+      "section_title": "Note: Be sure to use the Attach file option from the Add Comments tool when attaching files for a do...",
+      "importance_rank": 5,
+      "page_number": 14
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_2.pdf",
+      "section_title": "Create PDFs by printing to file In many authoring applications, you can use the Print command with t...",
+      "importance_rank": 1,
+      "page_number": 12
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_2.pdf",
+      "section_title": "Specifies if the layers are flattened.",
+      "importance_rank": 2,
+      "page_number": 9
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_2.pdf",
+      "section_title": "Sets the compatibility level of the PDF.",
+      "importance_rank": 3,
+      "page_number": 7
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_2.pdf",
+      "section_title": "In an authoring application such as Adobe InDesign, choose File > Print.",
+      "importance_rank": 4,
+      "page_number": 14
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_2.pdf",
+      "section_title": "When some but not all of the available Word headings and styles are selected for conversion to PDF b...",
+      "importance_rank": 5,
+      "page_number": 11
+    }
+  ],
+  "subsection_analysis": [
+    {
+      "document": "Test Your Acrobat Exporting Skills.pdf",
+      "refined_text": "the ultimate test of your Acrobat exporting skills!. dive into real-world scenarios, answer intriguing questions. if you have what it takes to be a true PDF exporting pro, you can be a true PDF exporter.",
+      "page_number": 1
+    },
+    {
+      "document": "Test Your Acrobat Exporting Skills.pdf",
+      "refined_text": "if you're working on an important report, your computer crashes. do you rely on the Autosave feature to recover your work or start from scratch?",
+      "page_number": 1
+    },
+    {
+      "document": "Test Your Acrobat Exporting Skills.pdf",
+      "refined_text": "you're a student who needs to convert a PDF to a DOCX file for your thesis. do you have a thesis that you want to convert to a DOCX file?",
+      "page_number": 1
+    },
+    {
+      "document": "Test Your Acrobat Exporting Skills.pdf",
+      "refined_text": "you're a web developer who needs to export a PDF to HTML for your website. if you're a web developer, you're a web developer who needs to export a PDF to HTML for your website.",
+      "page_number": 2
+    },
+    {
+      "document": "Test Your Acrobat Exporting Skills.pdf",
+      "refined_text": "you can use the Snapshot tool to copy selected content as an image. you can use the Snapshot tool to copy selected content as an image.",
+      "page_number": 2
+    },
+    {
+      "document": "Learn Acrobat - Generative AI_2.pdf",
+      "refined_text": "GenAl Assistant allows users to process up to 10 documents simultaneously. each up to 600 pages and 100MB can be accessed from different sources.",
+      "page_number": 8
+    },
+    {
+      "document": "Learn Acrobat - Generative AI_2.pdf",
+      "refined_text": "the chat history includes a timeline to trace how your questions and answers evolved. the copied chat history does not show the timeline of questions and answers.",
+      "page_number": 1
+    },
+    {
+      "document": "Learn Acrobat - Generative AI_2.pdf",
+      "refined_text": "administrator can turn on the option to request access to the AI Assistant for Acrobat. you must wait for further review and approval by your admin before you're granted access.",
+      "page_number": 12
+    },
+    {
+      "document": "Learn Acrobat - Generative AI_2.pdf",
+      "refined_text": "you can manage the deployment of Acrobat AI Assistant through the Admin Console. the users must restart Acrobat to see AI Assistant.",
+      "page_number": 18
+    },
+    {
+      "document": "Learn Acrobat - Generative AI_2.pdf",
+      "refined_text": "chat displays the number of files added. you can enter your question or choose from suggested questions. you can enter your question or choose from suggested questions.",
+      "page_number": 10
+    },
+    {
+      "document": "The Ultimate PDF Sharing Checklist.pdf",
+      "refined_text": "this checklist will ensure you cover all the bases. let's dive into the basics. if you're looking for a checklist, you should check out the checklist.",
+      "page_number": 1
+    },
+    {
+      "document": "The Ultimate PDF Sharing Checklist.pdf",
+      "refined_text": "a checklist of checklists can help you ensure that your documents are properly drafted. a checklist of checklists can be found in the u.s.",
+      "page_number": 3
+    },
+    {
+      "document": "The Ultimate PDF Sharing Checklist.pdf",
+      "refined_text": "• Did you enter the email addresses of clients, agents, and other agents? Did you enter the email addresses of clients, agents, and other agents?",
+      "page_number": 3
+    },
+    {
+      "document": "The Ultimate PDF Sharing Checklist.pdf",
+      "refined_text": "• Have you decided if clients can comment on the document or comment on the document. have you decided if clients can comment on the document or comment on the document?",
+      "page_number": 2
+    },
+    {
+      "document": "The Ultimate PDF Sharing Checklist.pdf",
+      "refined_text": "• Did you enter the email addresses of everyone who needs to be contacted?.......",
+      "page_number": 1
+    },
+    {
+      "document": "Learn Acrobat - Generative AI_1.pdf",
+      "refined_text": "AI Assistant can analyze multiple documents to uncover similarities, differences, and key patterns. it links to text and data table sources within the document.",
+      "page_number": 2
+    },
+    {
+      "document": "Learn Acrobat - Generative AI_1.pdf",
+      "refined_text": "the AI Assistant is powered by generative AI models. the technology is still not perfect, but not all answers are helpful or accurate.",
+      "page_number": 4
+    },
+    {
+      "document": "Learn Acrobat - Generative AI_1.pdf",
+      "refined_text": "content usage and handling practices This FAQ addresses Adobe’s content usage and handling practices. references to “generative AI capabilities” are specific to Acrobat AI Assistant and Generative summary only.",
+      "page_number": 4
+    },
+    {
+      "document": "Learn Acrobat - Generative AI_1.pdf",
+      "refined_text": "generative AI features are activated in acrobat. the user must engage AI Assistant or generative summary on a specific file.",
+      "page_number": 5
+    },
+    {
+      "document": "Learn Acrobat - Generative AI_1.pdf",
+      "refined_text": "generative AI features are built upon powerful, emerging large language model technologies that may generate outputs that are inaccurate or misleading. this is especially true if you try to use these features to generate outputs that are unrelated to your source document.",
+      "page_number": 3
+    },
+    {
+      "document": "Learn Acrobat - Export_2.pdf",
+      "refined_text": "the selection is copied automatically to the clipboard when you release the mouse/touchpad button. if a document is open in another application, go to the document, right-click, and select Paste to paste the copied selection directly into the target document.",
+      "page_number": 3
+    },
+    {
+      "document": "Learn Acrobat - Export_2.pdf",
+      "refined_text": "select acrobat in the upper-left (macOS) or Menu in the upper-left (Windows) then select Preferences. select the Make Select tool select images before text.",
+      "page_number": 1
+    },
+    {
+      "document": "Learn Acrobat - Export_2.pdf",
+      "refined_text": "you can use the Snapshot tool to copy all selected content. text and images are copied as an image. the tool can be used to copy all selected content.",
+      "page_number": 3
+    },
+    {
+      "document": "Learn Acrobat - Export_2.pdf",
+      "refined_text": "you can save all the images from a PDF. See Export images to another format. this feature isn’t available in Reader.",
+      "page_number": 3
+    },
+    {
+      "document": "Learn Acrobat - Export_2.pdf",
+      "refined_text": "select tool can copy and paste individual images from a PDF to the clipboard. use the Select tool to copy and paste individual images from a PDF to the clipboard.",
+      "page_number": 1
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "refined_text": "Enhance camera image features scanned files and images for clear PDFs. the feature addresses common issues in mobile-captured images.",
+      "page_number": 16
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "refined_text": "scanned PDFs can be complicated if they include low-quality text or images. other factors include compatibility issues, security restrictions, and large file sizes.",
+      "page_number": 14
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "refined_text": "only text and images on the original page are replaced. bookmarks and links that may have been associated with the replacement page don't carry over.",
+      "page_number": 10
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "refined_text": "check the accuracy of optical character recognition output. rescan the document using the tool Scan & OCR > Recognize Text.",
+      "page_number": 14
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "refined_text": "page numbers on the document pages don't always match the page numbers. pages are numbered with integers, starting with page 1 for the first page of the document.",
+      "page_number": 13
+    },
+    {
+      "document": "Learn Acrobat - Export_1.pdf",
+      "refined_text": "autosave feature guards against losing your work in case of power failure. the original file is not modified, but instead, Acrobat creates an autosave file of changes. the amount of new information that the file contains depends on how frequently Acrobat saves the file.",
+      "page_number": 4
+    },
+    {
+      "document": "Learn Acrobat - Export_1.pdf",
+      "refined_text": "PDF files include DSC comments and other advanced information preserved by Adobe. you can also create an EPS file from any PDF for placement or opening in other applications.",
+      "page_number": 20
+    },
+    {
+      "document": "Learn Acrobat - Export_1.pdf",
+      "refined_text": "the PostScript Printer Description provides the necessary information to format a PostScript file correctly for a particular output device. Device Independent creates only composite (not color-separated) PostScript or EPS files.",
+      "page_number": 21
+    },
+    {
+      "document": "Learn Acrobat - Export_1.pdf",
+      "refined_text": "resulting image may look different when opened in Acrobat. the image may look different when opened in the PDF. this can happen if the images have a color profile included at the page level.",
+      "page_number": 9
+    },
+    {
+      "document": "Learn Acrobat - Export_1.pdf",
+      "refined_text": "you can select text in a PDF file and save it in one of the supported formats. a PDF file can be exported to another format.",
+      "page_number": 27
+    },
+    {
+      "document": "Learn Acrobat - Edit_1.pdf",
+      "refined_text": "acrobat's image-editing capabilities are limited. using high-resolution images can lead to performance issues. improve images using other tools before adding them to PDF documents.",
+      "page_number": 13
+    },
+    {
+      "document": "Learn Acrobat - Edit_1.pdf",
+      "refined_text": "you can edit an image or graphic using another application, such as Photoshop, Illustrator, or Microsoft® Paint. the PDF changes automatically when you save the image or graphic.",
+      "page_number": 16
+    },
+    {
+      "document": "Learn Acrobat - Edit_1.pdf",
+      "refined_text": "objects can be moved in front of or behind elements. you can push an item forward or back on just one level. Alternatively, you can send it to the front or back of the stacking order of elements on the page.",
+      "page_number": 14
+    },
+    {
+      "document": "Learn Acrobat - Edit_1.pdf",
+      "refined_text": "the left option aligns the left edges of the selected objects with the leftmost object. the left option aligns the left edges of the selected objects with the leftmost object.",
+      "page_number": 14
+    },
+    {
+      "document": "Learn Acrobat - Edit_1.pdf",
+      "refined_text": "select multiple items if you want to edit them together in the same file. select the image and object from the context menu. select the image and object from the context menu.",
+      "page_number": 16
+    },
+    {
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "refined_text": "fill & Sign tool automatically detects the form fields like text fields, comb fields, checkboxes, and radio buttons. you can manually add text and other symbols anywhere on the form using the Fill & Sign tool.",
+      "page_number": 2
+    },
+    {
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "refined_text": "auto-complete stores any entries that you type in an interactive form field. the suggestions appear in a pop-up menu, from which you can select a match.",
+      "page_number": 10
+    },
+    {
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "refined_text": "form creators don’t convert PDFs to interactive fillable forms. they intentionally design a form that you can fill in only by hand or with the Fill & Sign tool.",
+      "page_number": 8
+    },
+    {
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "refined_text": "signature and text become part of the PDF. sign form is a PDF document or form. sign form is a PDF document or form.",
+      "page_number": 15
+    },
+    {
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "refined_text": "if you receive an email request for a signature from someone using Adobe Acrobat Sign, you can access the agreement from the link in your email or through your Acrobat or Acrobat Reader desktop application.",
+      "page_number": 16
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_2.pdf",
+      "refined_text": "to trust a certificate, it must be added to the user's trusted identity list. the trust level must be set manually.",
+      "page_number": 8
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_2.pdf",
+      "refined_text": "signature validation information may be unavailable during the signing. a company official may sign a contract on a laptop while traveling without internet access.",
+      "page_number": 11
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_2.pdf",
+      "refined_text": "a government agency creates a form with signature fields and certifies it. a government agency creates a form with signature fields and certifies it. a new form will only be able to change fields and sign the document.",
+      "page_number": 6
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_2.pdf",
+      "refined_text": "signature validity is determined by checking the authenticity of the signature’s digital ID certificate status and document integrity. if you receive a signed document, you may want to validate it.",
+      "page_number": 1
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_2.pdf",
+      "refined_text": "the signature can only be validated for a limited time. certificates related to the signature eventually expire or are revoked.",
+      "page_number": 10
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "refined_text": "both signature types comply with the PDF Advanced Electronic Signature (PAdES) standard. the default signing format is compliant with Part 2 of the PAdES standard.",
+      "page_number": 24
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "refined_text": "directory servers are used as centralized repositories of identities within an organization. the server acts as an ideal location to store user certificates in enterprises that use certificate encryption.",
+      "page_number": 27
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "refined_text": "digital IDs are usually password protected. they can be stored on your computer in PKCS #12 file format. a default signature handler can access digital IDs from various locations.",
+      "page_number": 27
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "refined_text": "Adobe Acrobat Sign is the leader in e-signatures and web contracting. you can get PDF, Microsoft Word, and other documents sent, signed, and filed instantly.",
+      "page_number": 21
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "refined_text": "seed values allow authors to specify which choices signers can make when signing a document. authors can also specify signature requirements for items such as certificates and timestamp servers.",
+      "page_number": 25
+    },
+    {
+      "document": "Learn Acrobat - Share_1.pdf",
+      "refined_text": "PDFMaker converts your file from Word to PDF. insertion comments use the exact text that you want to add. insertion comments will have to be deleted manually from the Word document.",
+      "page_number": 10
+    },
+    {
+      "document": "Learn Acrobat - Share_1.pdf",
+      "refined_text": "reviewers can share PDF files for review from your desktop application, the Acrobat web, or the mobile app. the email invitation is sent to reviewers from their computer.",
+      "page_number": 10
+    },
+    {
+      "document": "Learn Acrobat - Share_1.pdf",
+      "refined_text": "@mention includes your organizational contacts and your synced personal contacts list. the review mode gets enabled for you. the reviewers get an invitation email with a link to the document cloud shared review file.",
+      "page_number": 12
+    },
+    {
+      "document": "Learn Acrobat - Share_1.pdf",
+      "refined_text": "reviewers receive email invitation with link to review PDF. they can use commenting tools to add comments to the PDF. they can also use Acrobat Reader or desktop applications to add comments.",
+      "page_number": 12
+    },
+    {
+      "document": "Learn Acrobat - Share_1.pdf",
+      "refined_text": "reviewers receive email invitation with link to review PDF. they can use commenting tools to add comments to the PDF. they can also use Acrobat Reader or desktop applications to add comments.",
+      "page_number": 11
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_1.pdf",
+      "refined_text": "Acrobat PDFMaker allows you to save steps by using a Word mail merge document and data file to output mail merges directly to PDF.",
+      "page_number": 27
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_1.pdf",
+      "refined_text": "Adobe Create PDF cloud service converts documents to PDFs. the created PDFs are high-quality and provide exceptional visual fidelity.",
+      "page_number": 13
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_1.pdf",
+      "refined_text": "Acrobat PDFMaker toolbar and Adobe PDF menu are available in many popular authoring applications. the toolbar buttons and the Adobe PDF menu are also available.",
+      "page_number": 14
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_1.pdf",
+      "refined_text": "PDFMaker conversion settings vary according to file types. the options available for PowerPoint files aren’t the same as the options available for Outlook files.",
+      "page_number": 20
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_1.pdf",
+      "refined_text": "a PDF can be created in a one-page format. it can be useful for creating a one-page PDF.",
+      "page_number": 11
+    },
+    {
+      "document": "Learn Acrobat - Share_2.pdf",
+      "refined_text": "attachments can be used to reference longer documents. the reader must have an application installed that can open the attachment. the attachment can be viewed by clicking the attachment button.",
+      "page_number": 14
+    },
+    {
+      "document": "Learn Acrobat - Share_2.pdf",
+      "refined_text": "annotation and drawing markup tools can add comments. comments are notes and drawings that communicate ideas or provide feedback for PDFs. text- editing tools let you add editing marks to indicate changes that you want in the source document.",
+      "page_number": 2
+    },
+    {
+      "document": "Learn Acrobat - Share_2.pdf",
+      "refined_text": "text boxes have three parts: a text box, a knee line, and an end-point line. the text box expands vertically as you type so that all text remains visible.",
+      "page_number": 12
+    },
+    {
+      "document": "Learn Acrobat - Share_2.pdf",
+      "refined_text": "markups can be grouped temporarily to move them to a new location. grouping helps to distinguish your markups from other reviewers’ markups.",
+      "page_number": 11
+    },
+    {
+      "document": "Learn Acrobat - Share_2.pdf",
+      "refined_text": "attaches to document-level files aren't tracked with other comments in a review workflow. attaches can cause attached comments to be lost.",
+      "page_number": 14
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_2.pdf",
+      "refined_text": "PDFs are created by printing to file. the source document is converted to PostScript and fed directly to Distiller. the current Distiller preference settings and Adobe PDF settings are used to convert the file.",
+      "page_number": 12
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_2.pdf",
+      "refined_text": "Specifies if the layers are flattened. the PDF looks like the original drawing. all shapes in the Visio drawing are converted.",
+      "page_number": 9
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_2.pdf",
+      "refined_text": "the most recent version includes all the latest features and functionality. if you’re creating PDFs that are distributed widely, choose an earlier level to ensure that all users can view and print the document.",
+      "page_number": 7
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_2.pdf",
+      "refined_text": "in an authoring application such as Adobe InDesign, choose File > Print. select Adobe PDF as the printer, and click Properties or Preferences.",
+      "page_number": 14
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_2.pdf",
+      "refined_text": "the mark in the corresponding check boxes at the top of the tab changes. if all elements of the type are selected, a colored square appears.",
+      "page_number": 11
+    }
+  ]
+}

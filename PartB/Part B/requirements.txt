@@ -1,0 +1,11 @@
+pdfminer.six==20221105
+PyMuPDF==1.24.4
+sentence-transformers==2.6.1
+faiss-cpu==1.8.0
+scikit-learn==1.5.0
+transformers==4.42.0
+torch==2.2.2
+pydantic==2.7.1
+joblib==1.4.2
+tqdm==4.66.4
+pytest==8.4.1
